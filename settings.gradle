@@ -1,0 +1,10 @@
+
+
+rootProject.name = 'basic-multiproject'
+include 'company'
+include 'country'
+include 'customer'
+include 'merge'
+include 'defaults'
+include 'webapp'
+
